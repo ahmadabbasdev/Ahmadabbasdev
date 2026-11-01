@@ -65,7 +65,7 @@ I'm open to connecting with developers, product teams, and companies building us
   <a href="https://www.linkedin.com/in/ahmadabbasdev">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmad_Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:mashup565@gmail.com">
+  <a href="mailto:ahmadabbas7925@gmail.com">
     <img src="https://img.shields.io/badge/Email-mashup565%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmad" />
   </a>
 </p><div align="center">
