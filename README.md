@@ -1,80 +1,157 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Ahmad+Abbas+%F0%9F%91%8B;Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications&font=Fira+Code&center=true&width=720&height=55&color=39FF88&vCenter=true&size=22&pause=1200" alt="Typing introduction" />`{=html}
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ahmad+Abbas+%F0%9F%91%8B;Full-Stack+Software+Engineer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Secure+%26+Scalable+APIs&font=Fira+Code&center=true&width=650&height=50&color=39FF88&vCenter=true&size=24&pause=1200" />
+`<br/>`{=html}
 
-<br/>
+`<img src="https://github.com/Ahmii1122/Ahmii1122/raw/main/ascii-avatar.svg" alt="Ahmad Abbas ASCII portrait" width="420" />`{=html}
 
+`<br/>`{=html}
 
+`<a href="https://www.linkedin.com/in/ahmadabbasdev">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
+`</a>`{=html} `<a href="mailto:mashup565@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
+`</a>`{=html}
+:::
 
-<br/>
+------------------------------------------------------------------------
 
-<!-- Animated ASCII-art portrait, typed out character by character -->
-<img src="/ascii-avatar.svg" alt="Ahmad Abbas ASCII portrait" width="480"/>
+## 👋 About Me
 
-</div>
+I'm **Ahmad Abbas**, a Full-Stack Developer who builds modern web
+applications, responsive user interfaces, and practical software
+solutions.
 
-<br/>
+My work spans frontend development, API integration, and backend
+functionality. I enjoy turning requirements into clear, maintainable
+features and building experiences that work well across devices.
 
-## 🚀 About Me
-I'm a Full-Stack Software Engineer specializing in the **MERN stack**, focused on building robust, scalable, and secure web applications — bridging clean, intuitive interfaces with high-performance, production-grade backend architecture.
+-   🔭 **Focus:** Web applications, product interfaces, and full-stack
+    development
+-   🌱 **Interested in:** Scalable application architecture,
+    performance, and developer experience
+-   💬 **Topics:** React.js, Next.js, JavaScript, REST APIs, and the
+    MERN stack
+-   📫 **Email:** <mashup565@gmail.com>
+-   💼 **LinkedIn:** [Ahmad
+    Abbas](https://www.linkedin.com/in/ahmadabbasdev)
 
-> 💡 *"Building secure, scalable systems — one clean commit at a time."*
+------------------------------------------------------------------------
 
-- 💬 **Ask me about:** Full-stack architecture, secure API design, or MERN development
-- ✉️ **Contact:** [mashup565@gmail.com](mailto:mashup565@gmail.com)
-- 🌐 **GitHub:** [github.com/Ahmii1122](https://github.com/Ahmii1122)
+## 🛠️ Technologies
 
----
-
-## 🛠️ Technical Skills
-
+```{=html}
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+```
+`<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />`{=html}
+`<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />`{=html}
+`<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />`{=html}
+`<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />`{=html}
+`<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />`{=html}
+`<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />`{=html}
+`<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />`{=html}
+`<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />`{=html}
+`<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222222" alt="Firebase" />`{=html}
+```{=html}
 </p>
+```
+### Frontend Development
 
-### 🎨 Frontend Development
-- **Component-Driven UI** — advanced React.js development with functional components, custom hooks, and modern state management
-- **Modern Styling & Design** — responsive, high-contrast, adaptive layouts using Tailwind CSS and Material UI
-- **Seamless UX/UI** — client-side routing, protected route guards, and optimized data fetching with graceful loading/error states
+-   Building responsive interfaces with reusable React components.
+-   Creating layouts and UI features with Tailwind CSS and Material UI.
+-   Working with forms, routing, API-driven data, and loading/error
+    states.
+-   Developing with JavaScript and TypeScript.
 
-### 🛡️ Production-Grade Backend Architecture
-| Pillar | What I Implement |
-|---|---|
-| **Data Validation** | Strict data integrity via MongoDB/Mongoose schemas, sanitizing all user input |
-| **Security & Auth** | Secure authentication and protected endpoints via JWT + bcrypt password encryption |
-| **Rate Limiting & Throttling** | Custom middleware guarding against brute-force attacks and resource abuse |
-| **Performance & Caching** | Redis caching for frequently requested data, cutting database load and latency |
+### Backend & API Development
 
----
+-   Building application functionality with Node.js and Express.js.
+-   Integrating REST APIs and handling asynchronous requests.
+-   Working with MongoDB and Firebase where appropriate.
+-   Implementing authentication and access-controlled flows when
+    required.
 
-## 📈 GitHub Stats
+### Engineering Practices
 
+-   Component-based architecture and maintainable code.
+-   Responsive design and usability across screen sizes.
+-   Clear error handling and practical debugging.
+-   Collaboration, documentation, and continuous improvement.
+
+------------------------------------------------------------------------
+
+## 🚀 Projects
+
+I work on web projects across business websites, e-commerce experiences,
+and application interfaces. Some client and employer projects have
+private source code, so I only share code publicly when I have
+permission.
+
+Here are selected live projects:
+
+  -----------------------------------------------------------------------------------------
+  Project                                   Description             Technologies
+  ----------------------------------------- ----------------------- -----------------------
+  [Nubes eSIM](https://www.nubessim.com/)   eSIM e-commerce         HTML, CSS, JavaScript,
+                                            platform with a         PHP, Tailwind CSS,
+                                            storefront and custom   Firebase, Stripe
+                                            CRM functionality.      
+
+  [Northline                                Responsive business     Next.js, Tailwind CSS
+  Billing](https://northlinebilling.com/)   website for a medical   
+                                            billing company.        
+
+  [FirmFox](https://firmfox.com/)           Business setup          React.js and frontend
+                                            platform; my            technologies
+                                            contribution is         
+                                            frontend development    
+                                            for the public website  
+                                            and authenticated       
+                                            portal at Techtics.AI.  
+  -----------------------------------------------------------------------------------------
+
+> Project descriptions reflect my contributions. Client and employer
+> source code may be private or subject to confidentiality requirements.
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Activity
+
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmii1122&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmii1122&theme=radical&hide_border=true" height="165" />
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=Ahmii1122&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />`{=html}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmii1122&theme=transparent&hide_border=true" height="165" alt="GitHub contribution streak" />`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmii1122&layout=compact&theme=radical&hide_border=true" />
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmii1122&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />`{=html}
+```{=html}
 </p>
+```
 
+------------------------------------------------------------------------
 
----
+## 🤝 Let's Connect
 
-## 🤝 Connect With Me
+I'm open to connecting with developers, product teams, and companies
+building useful web products.
 
+```{=html}
 <p align="center">
-  <a href="mailto:mashup565@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+```
+`<a href="https://www.linkedin.com/in/ahmadabbasdev">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Ahmad_Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />`{=html}
+`</a>`{=html} `<a href="mailto:mashup565@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-mashup565%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmad" />`{=html}
+`</a>`{=html}
+```{=html}
 </p>
-
-<p align="center">
-  ⭐ <b>If you like this profile, consider leaving a star!</b> ⭐
-</p>
+```
+::: {align="center"}
+`<i>`{=html}Thanks for visiting my profile!`</i>`{=html}
+:::
