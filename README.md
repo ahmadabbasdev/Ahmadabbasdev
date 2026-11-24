@@ -55,10 +55,10 @@ Project descriptions reflect my contributions. Client and employer source code m
 
 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmii1122&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmii1122&theme=transparent&hide_border=true" height="165" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadabbasdev&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadabbasdev&theme=transparent&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmii1122&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadabbasdev&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
 </p>🤝 Let's Connect
 I'm open to connecting with developers, product teams, and companies building useful web products.
 <p align="center">
